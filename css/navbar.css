@@ -1,0 +1,28 @@
+
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+    font-size: x-large;
+}
+
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+    font-family: 'Poppins', sans-serif;
+  }
+  .navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: darkslategray;
+    border: 1px solid black;
+    border-radius: .25rem;
+  }
+  .group .active { background-color: #000; }
+
+  a{
+    color: rgba(15, 15, 15, 0.945);
+  }
+  p{
+    font-family: 'Poppins', sans-serif; 
+    color: slategray;  
+}
